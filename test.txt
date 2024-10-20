@@ -1,0 +1,5 @@
+*name,password,role,age,term
+amir,amiramir,st,20,3
+ali,12345678,st,23,7
+diba,diba1234,admin,12,4
+
