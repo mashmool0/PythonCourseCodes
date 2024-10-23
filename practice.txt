@@ -1,0 +1,18 @@
+###### First Question 
+txt database -> username ,email ,password role  
+signup -> appned to txt database  
+password > 8 , number and alphabet , symbol , (!@)   
+
+
+login -> username ya email (harchi delesh bekhad (tashkis bedid email vared karde ya username)) 
+
+roles -> admin , normal 
+
+function -> check permissions access 
+if admin -> yes 
+else -> no you dont have access 
+
+
+########################
+
+
