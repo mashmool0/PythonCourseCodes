@@ -1,0 +1,4 @@
+*fullname,password,Course,Term,code_id(pk),pass_course,age ,
+amirmahdi,amiramir,----,---,402243101,-----,20                  
+aylar  , 1234425,---,---,402423413,---,20
+diba   , 1314142,---,---,402222,--,18

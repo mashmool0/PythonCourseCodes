@@ -1,0 +1,3 @@
+*name,techer_id,
+Zibaea,111
+Mohammadi,112

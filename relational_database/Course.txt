@@ -1,0 +1,4 @@
+*name,unit,course_id 
+Fizik1, 3 ,  1
+Fizik2, 3 ,  2 
+Andisheh, 2, 3
