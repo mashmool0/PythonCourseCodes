@@ -10,10 +10,4 @@ with open('OOP/students_list','r') as f  :
 
 
 
-print(list_fullnames)
-def remove_firsname(fname) : 
-    return fname.split()[1]
-
-
-
-print(list(map(remove_firsname,list_fullnames)))
+print(list(map(lambda str:str.split()[1],list_fullnames)))
