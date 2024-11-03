@@ -33,6 +33,6 @@ class Electronics(Product):
     
     def explain_product(self):
         return f''
-
+    
 # class Furniture(Product) : 
 #     pass 
