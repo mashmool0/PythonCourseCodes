@@ -16,15 +16,16 @@ class Product :
 
 class Clothes(Product) : 
     
-    def __init__(self, price, product_code,size,brand) -> None:
-        super().__init__( price, product_code)
+    def __init__(self,name, price, product_code,size,brand) -> None:
+        super().__init__( name,price, product_code)
         self.size = size 
         self.brand = brand 
     
     def explain_product(self):
         return f'Colethes Detail is : name : {self.name} brand {self.brand}  size {self.size}'
     
-     
+colthes = Clothes('kho','1000','20000','xl','X')
+print(isinstance(colthes,Product))
 
 class Electronics(Product): 
     def __init__(self, name, price, product_code,standard) -> None:
